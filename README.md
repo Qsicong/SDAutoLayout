@@ -1,3 +1,5 @@
+如果项目里面 pod 'JGProgressHUD' 这个垃圾提示器的话会导致SDAutoLayout很多地方失效，我不知道为什么哈，偶然发现的，没时间研究
+
 # SDAutoLayout（一行代码搞定自动布局！）
 
 一行代码搞定自动布局！致力于做最简单易用的Autolayout库。The most easy way for autolayout.
